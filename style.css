@@ -1,0 +1,19 @@
+﻿body {
+    font-family: "arial", sans-serif;
+    text-align: center;
+}
+
+#carousel {
+    position: relative;
+    width: 1280px;
+    margin: auto;
+}
+
+#carousel > img {
+        height: 700px;
+    }
+
+.button-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
